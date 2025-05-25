@@ -2,7 +2,7 @@
 
 #### Preview
 
- - [Demo](https://themewagon.github.io/Mantis-Bootstrap/dashboard/index.html/)
+ - [Demo](https://themewagon.github.io/Mantis-Bootstrap/dashboard/index.html)
 
 #### Download
  - [Download from ThemeWagon](https://themewagon.com/themes/mantis/)
